@@ -1,4 +1,4 @@
-# PyPractice :snake: :notepad:
+# PyPractice :snake: :books:
 This repository includes exercises for refreshing Python skills, from strings to Object Oriented Programming.
 
 ## Usage
