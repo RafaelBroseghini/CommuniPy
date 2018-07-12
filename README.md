@@ -9,7 +9,8 @@ This repository includes exercises for refreshing Python skills, from strings to
 * `python strings_test.py`
 
 ## Notes
-* Unittest will test all the functions from source file, to test specific functions comment out test cases in test.py file.
+* Unittest will test all the functions from source file. 
+* To test specific functions comment out test cases in the test file.
 * If you pass all tests no error will be thrown.
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 
