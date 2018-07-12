@@ -1,7 +1,8 @@
-# PyPractice
-This repository includes exercises for refreshing Python skills.
+# PyPractice :snake: :notepad:
+This repository includes exercises for refreshing Python skills, from strings to Object Oriented Programming.
 
 ## Usage
+> Using Strings as an example.
 * `git clone https://github.com/RafaelBroseghini/PyPractice.git`
 * `cd Strings`
 * *Write code for each function in strings.py*
