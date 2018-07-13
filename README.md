@@ -17,7 +17,7 @@ PyPractice is a place to craft your Python skills and validate them with Unit te
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
   
 ## Usage
 > Using Strings as an example.
