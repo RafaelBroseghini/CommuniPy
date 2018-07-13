@@ -7,7 +7,12 @@ This repository includes exercises for refreshing Python skills, from strings, l
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind ? Make a pull request!**
 
-
+## How it works:
+PyPractice is a place to craft your Python skills and validate them with Unit testing.
+* Implementation happens in the source file (string_easy_source.py) within each Folder (e.g. 'Strings).
+* After that all you have to do is execute the test file. These have 'test.py' at the end of them.
+* If you pass all tests no error will be thrown.
+* If error is thrown it will trace back to the exact implementation where the error is coming from.
 
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
@@ -19,11 +24,14 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
 * *Write code for each function in strings.py*
 * `python test_strings.py`
 
+## Authors
+
+* **Rafael Broseghini** - *Initial work* - [RafaelBroseghini](https://github.com/RafaelBroseghini)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/LICENSE) file for details
 
 ## Notes
 * Unittest will test all the functions specified in test file.
 * To test specific functions, comment out test cases in the test file.
-* If you pass all tests no error will be thrown.
-* If error is thrown it will trace back to the exact implementation where the error is coming from.
+
