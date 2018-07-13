@@ -1,5 +1,5 @@
 # PyPractice :snake: :books:
-This repository includes exercises for refreshing Python skills, from strings to Object Oriented Programming.
+This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming.
 
 ## Usage
 > Using Strings as an example.
