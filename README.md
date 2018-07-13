@@ -15,3 +15,4 @@ This repository includes exercises for refreshing Python skills, from strings, l
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 * test
 * test 2
+* test 3
