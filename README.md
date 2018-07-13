@@ -13,6 +13,3 @@ This repository includes exercises for refreshing Python skills, from strings, l
 * To test specific functions, comment out test cases in the test file.
 * If you pass all tests no error will be thrown.
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
-* test
-* test 2
-* test 3
