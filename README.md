@@ -28,7 +28,8 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
 
 ## Authors
 
-* **Rafael Broseghini** - *Initial work* - [RafaelBroseghini](https://github.com/RafaelBroseghini)
+* **Rafael Broseghini** - *Initial work* - [Rafael Broseghini](https://github.com/RafaelBroseghini)
+* **Blaise Schaeffer** - *Initial work* - [Blaise Schaeffer](https://github.com/BlaiseSSchaeffer)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/LICENSE) file for details
