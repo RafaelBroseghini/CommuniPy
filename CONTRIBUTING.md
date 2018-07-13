@@ -3,7 +3,8 @@
 ## Pull Request Process
 
 * Steps (set up): 
-  * Fork this repo! 
+  * Fork this repo!
+  * Clone your copy of this repository: `git clone https://github.com/YOUR-USERNAME/PyPractice.git`
   * `cd PyPractice` 
   * `git remote add upstream https://github.com/RafaelBroseghini/PyPractice.git` 
   * The command above ensures that you can get changes that you do not have locally. 
