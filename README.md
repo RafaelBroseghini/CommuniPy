@@ -4,12 +4,7 @@ This repository includes exercises for refreshing Python skills, from strings, l
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind ? Make a pull request!**
 
-## Usage
-> Using Strings as an example.
-* `git clone https://github.com/RafaelBroseghini/PyPractice.git`
-* `cd Strings`
-* *Write code for each function in strings.py*
-* `python test_strings.py`
+
 
 ## Contributing
 * Steps (set up):
@@ -27,6 +22,13 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
   * `git push origin master`
   * Open a pull request!
   * Woohoo! You've made your first contribution!
+  
+## Usage
+> Using Strings as an example.
+* `git clone https://github.com/RafaelBroseghini/PyPractice.git`
+* `cd Strings`
+* *Write code for each function in strings.py*
+* `python test_strings.py`
   
 
 ## Notes
