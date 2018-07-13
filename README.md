@@ -9,7 +9,7 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
 * `git clone https://github.com/RafaelBroseghini/PyPractice.git`
 * `cd Strings`
 * *Write code for each function in strings.py*
-* `python strings_test.py`
+* `python test_strings.py`
 
 ## Contributing
 * Steps (set up):
