@@ -14,3 +14,4 @@ This repository includes exercises for refreshing Python skills, from strings, l
 * If you pass all tests no error will be thrown.
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 * test
+* test 2
