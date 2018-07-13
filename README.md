@@ -1,6 +1,9 @@
 # PyPractice :snake: :books:
 This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming.
 
+* **This is intended to be a place for everyone with any Python knowledge to contribute
+and make an impact within the community. Have a problem in mind ? Make a pull request!**
+
 ## Usage
 > Using Strings as an example.
 * `git clone https://github.com/RafaelBroseghini/PyPractice.git`
@@ -9,9 +12,6 @@ This repository includes exercises for refreshing Python skills, from strings, l
 * `python strings_test.py`
 
 ## Contributing
-> This is intended to be a place for everyone with any Python knowledge to contribute
-> and make an impact within the community. Have a problem in mind ? Make a pull request!
-
 * Steps (set up):
   * Fork this repo!
   * `cd PyPractice`
