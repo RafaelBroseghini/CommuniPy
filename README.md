@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # PyPractice :snake: :books:
 This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming.
 
@@ -7,21 +10,7 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
 
 
 ## Contributing
-* Steps (set up):
-  * Fork this repo!
-  * `cd PyPractice`
-  * `git remote add upstream https://github.com/RafaelBroseghini/PyPractice.git`
-  * The command above ensures that you can get changes that you do not have locally.
-  * `git pull upstream master`
-  * This will pull any changes that you do not have locally.
-  ---
-* Steps (contributing):
-  * Implement new problems.
-  * `git add example.py`
-  * `git commit -m "first collaboration"`
-  * `git push origin master`
-  * Open a pull request!
-  * Woohoo! You've made your first contribution!
+Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
   
 ## Usage
 > Using Strings as an example.
@@ -29,7 +18,9 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
 * `cd Strings`
 * *Write code for each function in strings.py*
 * `python test_strings.py`
-  
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Notes
 * Unittest will test all the functions specified in test file.
