@@ -12,7 +12,7 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
 
 
 
-![How to Use](/gif/PyPracticeUsage1.gif)
+![How to Use](/PyPracticeUsage1.gif)
 ---
 **See [Notes](#notes) as to why test cases may be commented out.**
 
