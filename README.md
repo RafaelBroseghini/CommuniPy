@@ -9,6 +9,8 @@ This repository includes exercises for refreshing Python skills, from strings, l
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind ? Make a pull request!**
 
+![How to Use](/gif/PyPracticeUsage1.gif)
+
 ## How it works:
 PyPractice is a place to craft your Python skills and validate them with Unit testing.
 * Implementation happens in the source file (strings.py) within each Folder (e.g. 'Strings).
