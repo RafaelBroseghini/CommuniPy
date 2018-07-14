@@ -1,26 +1,49 @@
-"""Given test_list and a word, return new list with 'word' concatenated to every item in the list."""
+"""
+  Exercise: Lists
+  Author:
+  Date:
+"""
 
-def task1(test_list, word):
+"""
+  Given test_list and a word, return new list
+  with 'word' concatenated to every item in the list.
+"""
+
+def concatenating_word(test_list, word):
   pass
 
-"""Given test_list, return the two greatest items in the list as a list in sorted order.
-If list only has one item. The new list must contain that item twice.""" 
+"""
+  Given test_list, return the two greatest 
+  items in the list as a list in sorted order. 
 
-def task2(test_list):
+  If list only has one item. The new list must 
+  contain that item twice.
+""" 
+
+def two_greatest_items(test_list):
   pass
 
-"""Given test_list, return the count of items between bottom and top thresholds. (inclusive)""" 
+"""
+  Given test_list, return the count of items 
+  between bottom and top thresholds. (INCLUSIVE)
+""" 
 
-def task3(test_list, bottom, top):
+def in_between_bottom_and_top(test_list, bottom, top):
   pass
 
-"""Given test_list and a delimiter, return a list separated by the delimiter in reverse order."""
+"""
+  Given test_list and a delimiter, return a list 
+  separated by the delimiter in reverse order.
+"""
 
-def task4(test_list, delimiter):
+def reverse_and_delimiter(test_list, delimiter):
   pass
 
 
-"""Given test_list, convert a list of multiple integers into a single integer"""
+"""
+  Given test_list, convert a list of multiple 
+  integers into a single integer.
+"""
 
-def task5(test_list):
+def multiple_integers_to_single_integer(test_list):
   pass
