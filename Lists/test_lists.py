@@ -1,5 +1,5 @@
-from lists import *
 import unittest
+from lists import *
 
 class Tester(unittest.TestCase):
   pass
