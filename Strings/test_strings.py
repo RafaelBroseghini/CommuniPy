@@ -28,5 +28,15 @@ class Tester(unittest.TestCase):
         self.assertEqual(task5("abba", "abba"), True)
         self.assertEqual(task5("Hewlett?", "ttelweH"), True)
 
+    def test_task_6(self):
+        self.assertEqual(task6("Don't tell me you don't miss pokemon on TV"), "TV on pokemon miss don't you me tell Don't")
+        self.assertEqual(task6("n0 v0w3ls !n th!s s3nt3nc3"), "s3nt3nc3 th!s !n v0w3ls n0")
+        self.assertEqual(task6("You shall not pass"), "pass not shall You")4
+
+    def test_task_7(self):
+        self.assertEqual(task7("Helloworld"), "Hlool elwrd")
+        self.assertEqual(task7("discord"), "dsod icr")
+        self.assertEqual(task7("Television"), "Tlvso eeiin")
+
 if __name__ == "__main__":
     unittest.main()
