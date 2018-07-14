@@ -4,7 +4,7 @@
 
 
 
-# PyPractice :snake: :books:
+# CommuniPy :snake: :books:
 This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming.
 
 * **This is intended to be a place for everyone with any Python knowledge to contribute
@@ -12,23 +12,23 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
 
 
 
-![How to Use](/PyPracticeUsage1.gif)
+![How to Use](/CommuniPy.gif)
 ---
 **See [Notes](#notes) as to why test cases may be commented out.**
 
 ## How it works:
-PyPractice is a place to craft your Python skills and validate them with Unit testing.
+CommuniPy is a place to craft your Python skills and validate them with Unit testing.
 * Implementation happens in the source file (strings.py) within each Folder (e.g. 'Strings).
 * After that, all you have to do is execute the test file. These have 'test_' at beginning of them.
 * If you pass all tests no error will be thrown.
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/CommuniPy/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Usage
 > Using Strings as an example.
-* `git clone https://github.com/RafaelBroseghini/PyPractice.git`
+* `git clone https://github.com/RafaelBroseghini/CommuniPy.git`
 * `cd Strings`
 * *Write code for each function in strings.py*
 * `python test_strings.py`
@@ -42,7 +42,7 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
 | :---: | :---: | 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/CommuniPy/blob/master/LICENSE) file for details
 
 
 ## Notes

@@ -4,9 +4,9 @@
 
 * Steps (set up): 
   * Fork this repo!
-  * Clone your copy of this repository: `git clone https://github.com/YOUR-USERNAME/PyPractice.git`
-  * `cd PyPractice` 
-  * `git remote add upstream https://github.com/RafaelBroseghini/PyPractice.git` 
+  * Clone your copy of this repository: `git clone https://github.com/YOUR-USERNAME/CommuniPy.git`
+  * `cd CommuniPy` 
+  * `git remote add upstream https://github.com/RafaelBroseghini/CommuniPy.git` 
   * The command above ensures that you can get changes that you do not have locally. 
   * `git pull upstream master` * This will pull any changes that you do not have locally. 
 --- 
