@@ -10,6 +10,8 @@ This repository includes exercises for refreshing Python skills, from strings, l
 and make an impact within the community. Have a problem in mind ? Make a pull request!**
 
 ![How to Use](/gif/PyPracticeUsage1.gif)
+---
+**See [Notes](#notes) as to why test cases may be commented out.**
 
 ## How it works:
 PyPractice is a place to craft your Python skills and validate them with Unit testing.
@@ -36,7 +38,7 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/LICENSE) file for details
 
-## Notes
+## [Notes](#notes)
 * Unittest will test all the functions specified in test file.
 * To test specific functions, comment out test cases in the test file.
 
