@@ -57,3 +57,18 @@ def reverse_words_in_string(test_string):
 """
 def two_parts_string(test_string):
     pass
+
+""" 
+    Given test_String return 'Even' or 'Odd' after
+    checking the string length. 
+"""
+
+def even_or_odd(test_String):
+    pass
+
+""" 
+    Given test_string return the number of vowels in the string. 
+"""
+
+def count_vowels(test_string):
+    pass
