@@ -23,5 +23,10 @@ class Tester(unittest.TestCase):
     	self.assertEqual(task4("I had pizza at 4:30am"), "Ihdpzaa :0m")
     	self.assertEqual(task4("Don't tell me you don't miss pokemon on TV"), "Dnttl eyudntms oeo nT")
 
+    def test_task_5(self):
+        self.assertEqual(task5("discord", "drocsid"), True)
+        self.assertEqual(task5("abba", "abba"), True)
+        self.assertEqual(task5("Hewlett?", "ttelweH"), True)
+
 if __name__ == "__main__":
     unittest.main()

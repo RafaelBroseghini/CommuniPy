@@ -27,8 +27,8 @@ def task4(test_string):
     pass
 
 """Given test_string and test_string2 return True or False
-	if one is palindrome of the other. Palindrome: Same string
-	if read backwards."""
+  if one is palindrome of the other. Palindrome: Same string
+  if read backwards."""
 
 def task5(test_string, test_string2):
     pass
