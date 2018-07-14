@@ -15,13 +15,13 @@ class Tester(unittest.TestCase):
     	self.assertEqual(replace_vowels("n0 v0w3ls !n th!s s3nt3nc3"), "n0 v0w3ls !n th!s s3nt3nc3")
     	self.assertEqual(replace_vowels("Cats or Dogs?"), "Cts r Dgs?")
         print("Passed task 2 with no errors!")
-        
+
     def test_distinct_string(self):
     	self.assertEqual(distinct_string("discord"), "dsod")
     	self.assertEqual(distinct_string("Hello World"), "Hlowrd")
     	self.assertEqual(distinct_string("InDiAnA JoNeS"), "IDAAJNS")
         print("Passed task 3 with no errors!")
-        
+
     def test_even_indexes(self):
     	self.assertEqual(even_indexes("Fortnite or PUBG?"), "Frnt rPB?")
     	self.assertEqual(even_indexes("I had pizza at 4:30am"), "Ihdpzaa :0m")
@@ -45,6 +45,17 @@ class Tester(unittest.TestCase):
         self.assertEqual(two_parts_string("discord"), "dsod icr")
         self.assertEqual(two_parts_string("Television"), "Tlvso eeiin")
         print("Passed task 7 with no errors!")
+
+    def test_even_or_odd(self):
+        self.assertEqual(task8("Pizza"), 'Odd')
+        self.assertEqual(task8("Even"), 'Even')
+        self.assertEqual(task9("Python"), 'Even')
+        print("Passed task 8 with no errors!")
+
+    def test_count_vowels(self):
+        self.assertEqual(task9("Hello"), 2)
+        self.assertEqual(task9("Python"), 1)
+        self.assertEqual(task9("Aeiou"), 5)
 
 if __name__ == "__main__":
     unittest.main()
