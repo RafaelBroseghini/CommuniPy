@@ -1,6 +1,7 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%20%3F-Yes!-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 # PyPractice :snake: :books:
@@ -8,6 +9,12 @@ This repository includes exercises for refreshing Python skills, from strings, l
 
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind ? Make a pull request!**
+
+
+
+![How to Use](/gif/PyPracticeUsage1.gif)
+---
+**See [Notes](#notes) as to why test cases may be commented out.**
 
 ## How it works:
 PyPractice is a place to craft your Python skills and validate them with Unit testing.
@@ -18,7 +25,7 @@ PyPractice is a place to craft your Python skills and validate them with Unit te
 
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-  
+
 ## Usage
 > Using Strings as an example.
 * `git clone https://github.com/RafaelBroseghini/PyPractice.git`
@@ -27,12 +34,16 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
 * `python test_strings.py`
 
 ## Authors
-
-* **Rafael Broseghini** - *Initial work* - [Rafael Broseghini](https://github.com/RafaelBroseghini)
-* **Blaise Schaeffer** - *Initial work* - [Blaise Schaeffer](https://github.com/BlaiseSSchaeffer)
+| [<img src="https://github.com/RafaelBroseghini.png" width="100px;"/><br /><sub><b>RafaelBroseghini</b></sub>](https://github.com/RafaelBroseghini)<br /> | [<img src="https://avatars0.githubusercontent.com/u/5983920?s=400&v=4" width="100px;"/><br /><sub><b>Blaise Schaeffer</b></sub>](https://github.com/BlaiseSSchaeffer)<br /> | 
+| :---: | :---: | 
+---
+### Contributors
+| [<img src="https://avatars3.githubusercontent.com/u/30067939?s=400&v=4" width="100px;"/><br /><sub><b>Vishnu Raveendran</b></sub>](https://github.com/vishnu-rvn)<br /> | [<img src="https://avatars0.githubusercontent.com/u/25935358?s=400&v=4" width="100px;"/><br /><sub><b>PedroRTeles</b></sub>](https://github.com/PedroRTeles)<br /> | 
+| :---: | :---: | 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/LICENSE) file for details
+
 
 ## Notes
 * Unittest will test all the functions specified in test file.
