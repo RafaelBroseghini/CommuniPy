@@ -5,7 +5,8 @@
 
 
 # CommuniPy :snake: :books:
-This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming.
+This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming. 
+**It is also a place that values the human behind the scren and provides tips from other humans on real life matters. People with different backgrounds share their stories and advices on how to become a better programmer.**
 
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind ? Make a pull request!**
@@ -17,7 +18,7 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
 **See [Notes](#notes) as to why test cases may be commented out.**
 
 ## How it works:
-CommuniPy is a place to craft your Python skills and validate them with Unit testing.
+CommuniPy is a place to craft your Python skills and learn from a large community with valuable insights.
 * Implementation happens in the source file (strings.py) within each Folder (e.g. 'Strings).
 * After that, all you have to do is execute the test file. These have 'test_' at beginning of them.
 * If you pass all tests no error will be thrown.
