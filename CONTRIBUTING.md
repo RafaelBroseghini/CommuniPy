@@ -19,8 +19,8 @@
     * Woohoo! You've made your first contribution!
     
 ## Guideline
-* **Source problems file should be self explanatory (e.g strings.py)**
-* **Test file should start with test_ followed by name of source file. (e.g test_strings.py)**
+* **Source problems file name should be self explanatory (e.g strings.py)**
+* **Test file name should start with test_ followed by name of source file. (e.g test_strings.py)**
 ## Code of Conduct
 
 ### Our Pledge
