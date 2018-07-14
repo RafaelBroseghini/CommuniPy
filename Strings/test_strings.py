@@ -1,5 +1,5 @@
-from strings import *
 import unittest
+from strings import *
 
 
 class Tester(unittest.TestCase):
