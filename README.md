@@ -38,7 +38,7 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/LICENSE) file for details
 
-## [Notes](#notes)
+## Notes
 * Unittest will test all the functions specified in test file.
 * To test specific functions, comment out test cases in the test file.
 
