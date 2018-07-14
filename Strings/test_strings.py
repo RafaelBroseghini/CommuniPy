@@ -9,7 +9,7 @@ class Tester(unittest.TestCase):
         self.assertEqual(task1("t h i s i s c r a z y"),
                                "y z a r c s i s i h t")
         print("\n.Passed task 1 with no errors!")
-        
+
     def test_task_2(self):
     	self.assertEqual(task2("so many vowels"), "s! m!ny v!w!ls")
     	self.assertEqual(task2("n0 v0w3ls !n th!s s3nt3nc3"), "n0 v0w3ls !n th!s s3nt3nc3")
@@ -37,12 +37,14 @@ class Tester(unittest.TestCase):
     def test_task_6(self):
         self.assertEqual(task6("Don't tell me you don't miss pokemon on TV"), "TV on pokemon miss don't you me tell Don't")
         self.assertEqual(task6("n0 v0w3ls !n th!s s3nt3nc3"), "s3nt3nc3 th!s !n v0w3ls n0")
-        self.assertEqual(task6("You shall not pass"), "pass not shall You")4
+        self.assertEqual(task6("You shall not pass"), "pass not shall You")
+        print("Passed task 6 with no errors!")
 
     def test_task_7(self):
         self.assertEqual(task7("Helloworld"), "Hlool elwrd")
         self.assertEqual(task7("discord"), "dsod icr")
         self.assertEqual(task7("Television"), "Tlvso eeiin")
+        print("Passed task 7 with no errors!")
 
 if __name__ == "__main__":
     unittest.main()
