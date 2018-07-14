@@ -33,24 +33,6 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
 * *Write code for each function in strings.py*
 * `python test_strings.py`
 
-## Contributing
-* Steps (set up):
-  * Fork this repo!
-  * `cd PyPractice`
-  * `git remote add upstream https://github.com/RafaelBroseghini/PyPractice.git`
-  * The command above ensures that you can get changes that you do not have locally.
-  * `git pull upstream master`
-  * This will pull any changes that you do not have locally.
-  ---
-* Steps (contributing):
-  * Implement new problems.
-  * `git add example.py`
-  * `git commit -m "first collaboration"`
-  * `git push origin master`
-  * Open a pull request!
-  * Woohoo! You've made your first contribution!
-  
-
 ## Authors
 | [<img src="https://github.com/RafaelBroseghini.png" width="100px;"/><br /><sub><b>RafaelBroseghini</b></sub>](https://github.com/RafaelBroseghini)<br /> | [<img src="https://avatars0.githubusercontent.com/u/5983920?s=400&v=4" width="100px;"/><br /><sub><b>Blaise Schaeffer</b></sub>](https://github.com/BlaiseSSchaeffer)<br /> | 
 | :---: | :---: | 
