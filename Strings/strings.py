@@ -32,3 +32,18 @@ def task4(test_string):
 
 def task5(test_string, test_string2):
     pass
+
+def task6(test_string):
+    """
+    Reverse the words in the given string
+    """
+    pass
+
+def task7(test_string):
+    """
+    Cipher: Given a string, create a new string such that
+    the new string has two parts, one-letters from even indexes
+    and two-letters from the odd indexes from the original string
+    example: task7('Helloworld') --> Hlool elwrd
+    """
+    pass
