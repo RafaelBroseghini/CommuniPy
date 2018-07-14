@@ -1,5 +1,1 @@
-"""
-  Exercise: Sets
-  Author:
-  Date:
-"""
+__author__ = "John Doe"
