@@ -15,4 +15,3 @@
 
 * Exercises in the 'Advanced' section each have it's prompt within their own README.md file.
 
----

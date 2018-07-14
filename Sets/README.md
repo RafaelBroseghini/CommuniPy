@@ -14,5 +14,3 @@
 * Exercises in the 'Beginner' and 'Intermediate' section have their prompt within the source file.
 
 * Exercises in the 'Advanced' section each have it's prompt within their own README.md file.
-
----
