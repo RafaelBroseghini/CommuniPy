@@ -52,9 +52,12 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/PyPractice/blo
   
 
 ## Authors
-
-* **Rafael Broseghini** - *Initial work* - [Rafael Broseghini](https://github.com/RafaelBroseghini)
-* **Blaise Schaeffer** - *Initial work* - [Blaise Schaeffer](https://github.com/BlaiseSSchaeffer)
+| [<img src="https://github.com/RafaelBroseghini.png" width="100px;"/><br /><sub><b>RafaelBroseghini</b></sub>](https://github.com/RafaelBroseghini)<br /> | [<img src="https://avatars0.githubusercontent.com/u/5983920?s=400&v=4" width="100px;"/><br /><sub><b>Blaise Schaeffer</b></sub>](https://github.com/BlaiseSSchaeffer)<br /> | 
+| :---: | :---: | 
+---
+### Contributors
+| [<img src="https://avatars3.githubusercontent.com/u/30067939?s=400&v=4" width="100px;"/><br /><sub><b>Vishnu Raveendran</b></sub>](https://github.com/vishnu-rvn)<br /> | [<img src="https://avatars0.githubusercontent.com/u/25935358?s=400&v=4" width="100px;"/><br /><sub><b>PedroRTeles</b></sub>](https://github.com/PedroRTeles)<br /> | 
+| :---: | :---: | 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/PyPractice/blob/master/LICENSE) file for details
