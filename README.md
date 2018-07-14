@@ -12,7 +12,7 @@ and make an impact within the community. Have a problem in mind ? Make a pull re
 ## How it works:
 PyPractice is a place to craft your Python skills and validate them with Unit testing.
 * Implementation happens in the source file (strings.py) within each Folder (e.g. 'Strings).
-* After that all you have to do is execute the test file. These have 'test.py' at the end of them.
+* After that, all you have to do is execute the test file. These have 'test_' at beginning of them.
 * If you pass all tests no error will be thrown.
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 
