@@ -1,5 +1,0 @@
-"""
-  Exercise: Sets
-  Author:
-  Date:
-"""
