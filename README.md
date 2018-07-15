@@ -34,13 +34,13 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/CommuniPy/blob
 * *Write code for each function in strings.py*
 * `python test_strings.py`
 
-## Authors
-| [<img src="https://github.com/RafaelBroseghini.png" width="100px;"/><br /><sub><b>RafaelBroseghini</b></sub>](https://github.com/RafaelBroseghini)<br /> | [<img src="https://avatars0.githubusercontent.com/u/5983920?s=400&v=4" width="100px;"/><br /><sub><b>Blaise Schaeffer</b></sub>](https://github.com/BlaiseSSchaeffer)<br /> | 
-| :---: | :---: | 
+## Collaborators
+| [<img src="https://github.com/RafaelBroseghini.png" width="100px;"/><br /><sub><b>RafaelBroseghini</b></sub>](https://github.com/RafaelBroseghini)<br /> |
+| :---: | 
 ---
 ### Contributors
-| [<img src="https://avatars3.githubusercontent.com/u/30067939?s=400&v=4" width="100px;"/><br /><sub><b>Vishnu Raveendran</b></sub>](https://github.com/vishnu-rvn)<br /> | [<img src="https://avatars0.githubusercontent.com/u/25935358?s=400&v=4" width="100px;"/><br /><sub><b>PedroRTeles</b></sub>](https://github.com/PedroRTeles)<br /> | 
-| :---: | :---: | 
+| [<img src="https://avatars3.githubusercontent.com/u/30067939?s=400&v=4" width="100px;"/><br /><sub><b>Vishnu Raveendran</b></sub>](https://github.com/vishnu-rvn)<br /> | [<img src="https://avatars0.githubusercontent.com/u/25935358?s=400&v=4" width="100px;"/><br /><sub><b>PedroRTeles</b></sub>](https://github.com/PedroRTeles)<br /> | [<img src="https://avatars1.githubusercontent.com/u/21013473?s=400&v=4" width="100px;"/><br /><sub><b>Ashish Shukla</b></sub>](https://github.com/ash2shukla)<br /> |
+| :---: | :---: | :---: | 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/RafaelBroseghini/CommuniPy/blob/master/LICENSE) file for details
