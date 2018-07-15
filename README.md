@@ -49,4 +49,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Notes
 * Unittest will test all the functions specified in test file.
 * To test specific functions, comment out test cases in the test file.
+* Read more about **unittest** at:
+    * [unittest Docs](https://docs.python.org/3/library/unittest.html)
+    * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests/)
+    * [pythontesting.net](http://pythontesting.net/framework/unittest/unittest-introduction/)
 
