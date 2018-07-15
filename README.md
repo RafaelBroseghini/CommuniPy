@@ -30,7 +30,7 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/CommuniPy/blob
 ## Usage
 > Using Strings as an example.
 * `git clone https://github.com/RafaelBroseghini/CommuniPy.git`
-* `cd Strings`
+* `cd CommuniPy/Practice\ Problems/01-Strings/`
 * *Write code for each function in strings.py*
 * `python test_strings.py`
 
