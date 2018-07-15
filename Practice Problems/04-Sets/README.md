@@ -1,7 +1,7 @@
 # Python Practice Problems - **Sets**
 
 ## Structure
-* This repository is divided into 3 Sections:
+* This repository is divided into 2 Sections:
     * *Beginner*
 
     * *Intermediate*
