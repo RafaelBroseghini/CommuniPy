@@ -6,7 +6,7 @@
 
 # CommuniPy :snake: :books:
 This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming. 
-* **It is also a place that values the human behind the scren and provides tips from other humans on real life matters. People with different backgrounds share their stories and advices on how to become a better programmer.**
+* **It is also a place that values the human behind the screen and provides tips from other humans on real life matters. People with different backgrounds share their stories and advices on how to become a better programmer.**
 
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind or want to share your story? Make a pull request!**
