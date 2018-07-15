@@ -1,4 +1,4 @@
-* Keep the filename <YOUR-NAME>\_<YOUR-DESIGNATION>
+* Keep the filename as YOUR-NAME\_YOUR-DESIGNATION
 
 ##### Date: mm/dd/yyyy
 # Name: ___________________
