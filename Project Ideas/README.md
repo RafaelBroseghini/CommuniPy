@@ -6,6 +6,10 @@ divided into three categories:
 * [Intermediate](#intermediate)
 * [Advanced](#advanced)
 
+## Note:
+Projects are always more fun when they're unique. A good approach is to look around you and think
+of every day tasks that you do that could be automated. 
+
 ## Easy
 * *[Hangman](https://github.com/RafaelBroseghini/CommuniPy/tree/master/Project%20Ideas/Hangman)*
 
