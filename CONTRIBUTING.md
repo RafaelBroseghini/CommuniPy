@@ -21,6 +21,8 @@
 ## Guideline
 * **Source problems file name should be self explanatory (e.g strings.py)**
 * **Test file name should start with test_ followed by name of source file. (e.g test_strings.py)**
+* **Files must follow PEP8**
+
 ## Code of Conduct
 
 ### Our Pledge

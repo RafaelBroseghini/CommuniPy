@@ -30,7 +30,7 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/CommuniPy/blob
 ## Usage
 > Using Strings as an example.
 * `git clone https://github.com/RafaelBroseghini/CommuniPy.git`
-* `cd Strings`
+* `cd CommuniPy/Practice\ Problems/01-Strings/`
 * *Write code for each function in strings.py*
 * `python test_strings.py`
 
@@ -49,4 +49,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Notes
 * Unittest will test all the functions specified in test file.
 * To test specific functions, comment out test cases in the test file.
+* Read more about **unittest** at:
+    * [unittest Docs](https://docs.python.org/3/library/unittest.html)
+    * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests/)
+    * [pythontesting.net](http://pythontesting.net/framework/unittest/unittest-introduction/)
 
