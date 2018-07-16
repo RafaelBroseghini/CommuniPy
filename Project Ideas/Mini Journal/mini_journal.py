@@ -2,4 +2,4 @@
 
 # Take user input.
 
-# Append it to a file.
+# Append it to 'journal.txt'.
