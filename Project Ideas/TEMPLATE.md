@@ -2,6 +2,7 @@
 
 # Steps:
 * Describe steps and some code snippets as guide. Do not lay everything out.
+---
 Step 1
 ```python
 print("hello world")
