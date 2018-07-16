@@ -1,1 +1,1 @@
-# CHEATSHEETS/NOTES for **Dictionaries**
+# CHEATSHEETS/NOTES for **Samples**

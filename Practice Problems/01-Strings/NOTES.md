@@ -1,1 +1,1 @@
-# CHEATSHEETS/NOTES for **Strings**
+# CHEATSHEETS/NOTES for **Samples**
