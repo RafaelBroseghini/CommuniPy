@@ -26,5 +26,5 @@ def sample_problem(sample_arg):
 if __name__ == "__main__":
     import doctest
     doctest.testmod(verbose=True)
-    from test_sample_beginner import test_one
+    from test_strings_beginner import test_one
     test_one('test_sample_problem')
