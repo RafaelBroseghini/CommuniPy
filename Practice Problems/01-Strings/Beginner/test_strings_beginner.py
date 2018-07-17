@@ -1,8 +1,11 @@
 from unittest import TestCase, TestSuite, TextTestRunner, main
-
+from reverse_string import reverse_string
 
 class StringsBeginnerTestCase(TestCase):
-    pass
+    def test_reverse_string(self):
+        self.assertEqual(reverse_string("I make things beep bop beep bop"),"pob peeb pob peeb sgniht ekam I")     
+        self.assertEqual(reverse_string("Write code write code"),"edoc etirw edoc etirW")  
+        self.assertEqual(reverse_string("Reverse this Last         One"),"enO         tsaL siht esreveR")  
 
 
 def test_one(test_name):
