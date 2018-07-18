@@ -16,6 +16,7 @@ of every day tasks that you do that could be automated. Or even tasks that could
 * *[Guess Game](https://github.com/RafaelBroseghini/CommuniPy/tree/master/Project%20Ideas/Guess%20Game)*
 * *[Hangman](https://github.com/RafaelBroseghini/CommuniPy/tree/master/Project%20Ideas/Hangman)*
 * *[Mini Journal](https://github.com/RafaelBroseghini/CommuniPy/tree/master/Project%20Ideas/Mini%20Journal)*
+* *[Make Your Own Bot](https://github.com/RafaelBroseghini/CommuniPy/tree/master/Project%20Ideas/Make%20Your%20Own%20Bot)*
 
 ## Intermediate
 
