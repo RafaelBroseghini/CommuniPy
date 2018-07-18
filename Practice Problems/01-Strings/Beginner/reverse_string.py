@@ -25,11 +25,10 @@ def reverse_string(test_string):
         >>> reverse_string("esreveR")
         'Reverse'
     """
-    return test_string[::-1]
+    pass
 
 if __name__ == '__main__':
     import doctest
     doctest.testmod(verbose=True)
     from test_strings_beginner import test_one
-
-    # main()
+    test_one('test_reverse_string')
