@@ -6,7 +6,7 @@
 
 # CommuniPy :snake: :books:
 This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming. 
-* **It is also a place that values the human behind the screen and provides tips from other humans on real life matters. People with different backgrounds share their stories and advices on how to become a better programmer.**
+* **It is also a place that provides valuable insights from real humans on real life matters. People with different backgrounds share their stories and advices on how to become a better programmer and asset in the workfoce.**
 
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind or want to share your story? Make a pull request!**
@@ -14,13 +14,13 @@ and make an impact within the community. Have a problem in mind or want to share
 
 
 ![How to Use](/CommuniPy.gif)
----
-**See [Notes](#notes) as to why test cases may be commented out.**
+
+**See [Notes](#notes) for other usage features.**
 
 ## How it works:
 CommuniPy is a place to craft your Python skills and learn from a large community with valuable insights.
-* Implementation happens in the source file (strings.py) within each Folder (e.g. 'Strings).
-* After that, all you have to do is execute the test file. These have 'test_' at beginning of them.
+* Implementation happens in the source file (reverse_string.py) within each Folder (e.g. 'Strings).
+* After that, all you have to do is execute the source file.
 * If you pass all tests no error will be thrown.
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 
@@ -30,9 +30,9 @@ Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/CommuniPy/blob
 ## Usage
 > Using Strings as an example.
 * `git clone https://github.com/RafaelBroseghini/CommuniPy.git`
-* `cd CommuniPy/Practice\ Problems/01-Strings/`
-* *Write code for each function in strings.py*
-* `python test_strings.py`
+* `cd CommuniPy/Practice\ Problems/01-Strings/Beginner`
+* *Choose one of the exercise files and write code. (e.g reverse_string.py)*
+* `python reverse_string.py`
 
 ## Collaborators
 | [<img src="https://github.com/RafaelBroseghini.png" width="100px;"/><br /><sub><b>RafaelBroseghini</b></sub>](https://github.com/RafaelBroseghini)<br /> | [<img src="https://avatars1.githubusercontent.com/u/21013473?s=400&v=4" width="100px;"/><br /><sub><b>Ashish Shukla</b></sub>](https://github.com/ash2shukla)<br /> |
@@ -48,7 +48,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Notes
 * Unittest will test all the functions specified in test file.
-* To test specific functions, comment out test cases in the test file.
+* To test all functions, run the test file.
+* **_To test specific functions, run exercise file associated with that exercise_.**
 * Read more about **unittest** at:
     * [unittest Docs](https://docs.python.org/3/library/unittest.html)
     * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests/)
