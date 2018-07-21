@@ -3,27 +3,27 @@ __author__ = "John Doe"
 def is_palindrome(test_string, test_string2):
 	"""
 	Problem Statement-
-		Given test_string and test_string2
-		and check if one is palindrome of the other
+		Given test_string and test_string2,
+		check if one is palindrome of the other.
 		Palindrome: Same string if reads backwards.
     
 	Input-
 	a. test_string: str
-    		Normal String.
     		Consists of alphanumeric characters.
+
 	b. test_string2: str
-    		Normal String.
     		Consists of alphanumeric characters.
     
 	Output-
 	    The function should return True or False
 		if both strings are palindromes.
 
+
 	Example-
-		>>> is_palindrome("Radar", "radar")
+		>>> is_palindrome("Radar", "radaR")
 		True
 
-		>>> replace_vowels("Level", "Stats")
+		>>> is_palindrome("Level", "Stats")
 		False
 	"""
 	pass

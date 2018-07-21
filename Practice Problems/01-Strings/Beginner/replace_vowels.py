@@ -14,7 +14,7 @@ def replace_vowels(test_string):
     
 	Output-
 	    The function should return test_string with
-		the vowels repalced by character '!'.
+		the vowels replaced by the character '!'.
 
 	Example-
 		>>> replace_vowels("CommuniPy")

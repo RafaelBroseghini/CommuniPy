@@ -18,10 +18,10 @@ def even_or_odd(test_string):
 
 	Example-
 		>>> even_or_odd("Even")
-		Even
+		'Even'
 
 		>>> even_or_odd("CommuniPy")
-		Odd
+		'Odd'
 	"""
 	pass
 
