@@ -47,9 +47,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 
 ## Notes
-* Unittest will test all the functions specified in test file.
-* To test all functions, run the test file.
-* **_To test specific functions, run exercise file associated with that exercise_.**
+* **Unittest will test all the functions specified in test file**.
+* **To test all functions, run the test file**.
+* **_"To test single excercise run that file directly."_.**
 * Read more about **unittest** at:
     * [unittest Docs](https://docs.python.org/3/library/unittest.html)
     * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/tests/)
