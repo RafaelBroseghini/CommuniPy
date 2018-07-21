@@ -8,10 +8,16 @@ Create a bot, where the computer will respond to the user based on specific inpu
     * Fun Facts about (you choose) Bot.
 
 # Steps:
-Have you Bot `return` a random quote, phrase, sentence etc upon running the program.
+Have your Bot `return` a random quote, phrase, sentence etc upon running the program.
 ```python
->>> Why was the stadium so cold?
->>> Because there were a lot of fans.
+"Bot asks: Why was the stadium so cold?"
+"Bot responds: Because there were a lot of fans."
+```
+---
+
+```python
+"Bot says: Why do the French eat snails?"
+"Bot impatiently responds: Because they don't like fast food."
 ```
 Create a pre defined set of accepted inputs.
 This can be done with simple `if` statements.
@@ -29,3 +35,4 @@ Repeat this process as many times as you would like as you progress through a ch
 # Improvements:
   * Prompting with Colorama for beautified prompt.
   * Read about NLP with TextBlob. [TextBlob Tutorial](https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/).
+  * Use `time.sleep(...)` to set up a timer between bot asking question and bot responding."
