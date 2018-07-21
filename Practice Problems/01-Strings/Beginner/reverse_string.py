@@ -6,8 +6,6 @@ def reverse_string(test_string):
     Problem Statement-
         Given test_string, return the reverse of
         test_string.
-        Try a iterative approach, list reverse aproach and
-        a slicing approach.
     
     Input-
         a. test_string: str
