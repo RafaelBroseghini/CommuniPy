@@ -1,7 +1,8 @@
 __author__ = "John Doe"
 
+
 def concatenating_word(test_list, test_word):
-    """
+	"""
 	Problem Statement-
 		Given test_list and word return a new list
         with the value of 'test_word' concatenated to
@@ -18,12 +19,12 @@ def concatenating_word(test_list, test_word):
 
 	Example-
 		>>> concatenating_word(["Brownie", "Pizza", "Computer", "Electron"], "Pie")
-		["BrowniePie", "PizzaPie", "ComputerPie", "ElectronPie"]
+		['BrowniePie', 'PizzaPie', 'ComputerPie', 'ElectronPie']
 
 		>>> concatenating_word(["Python", "GitHub", "Commit"], "Code")
-		["PythonCode", "GitHubCode", "CommitCode"]
+		['PythonCode', 'GitHubCode', 'CommitCode']
 	"""
-    pass
+	pass
 
 if __name__ == '__main__':
     import doctest

@@ -12,14 +12,15 @@ def two_greatest_items(test_list):
 
 	Output-
 	    The function should return a new list with the two
-        greatest items in a sorted order.
+        greatest items in a sorted order. If list size is 1,
+		return only one item.
 
 	Example-
 		>>> two_greatest_items([44, 32, 7, 9])
 		[32, 44]
 
 		>>> two_greatest_items([5])
-		[5, 5]
+		[5]
 	"""
     pass
 

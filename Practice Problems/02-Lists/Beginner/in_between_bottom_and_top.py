@@ -1,5 +1,6 @@
 __author__ = "John Doe"
 
+
 def in_between_bottom_and_top(test_list, bottom, top):
     """
 	Problem Statement-
@@ -19,7 +20,7 @@ def in_between_bottom_and_top(test_list, bottom, top):
 
 	Example-
 		>>> in_between_bottom_and_top([27, 32, 7, 64, 40, 21, 13], 5, 40)
-		[27, 32, 7, 21, 13]
+		[27, 32, 7, 40, 21, 13]
 
 		>>> in_between_bottom_and_top([-32, 93, 65, 1, 100], -100, 10)
 		[-32, 1]

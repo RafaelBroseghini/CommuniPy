@@ -15,7 +15,7 @@ class ListsBeginnerTestCase(TestCase):
     def test_two_greatest_items(self):
         self.assertEqual(two_greatest_items([1, 2, 3, 4, 5]), [4, 5])
         self.assertEqual(two_greatest_items([33, 99, 12, 43, 136, 1, 4]), [99, 136])
-        self.assertEqual(two_greatest_items([55]), [55, 55])
+        self.assertEqual(two_greatest_items([55]), [55])
         print("\nPassed two_greatest_items with no errors!")
 
     def test_in_between_bottom_and_top(self):
