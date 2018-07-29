@@ -3,6 +3,7 @@ from concatenating_word import concatenating_word
 from two_greatest_items import two_greatest_items
 from in_between_bottom_and_top import in_between_bottom_and_top
 from reverse_and_delimiter import reverse_and_delimiter
+from multiple_integers_to_single_integer import multiple_integers_to_single_integer
 
 class ListsBeginnerTestCase(TestCase):
     def test_concatenating_word(self):
@@ -28,6 +29,12 @@ class ListsBeginnerTestCase(TestCase):
         self.assertEqual(reverse_and_delimiter(["Alexander", "The", "Great"], "->"), ["Great", "->", "The", "->", "Alexander"])
         self.assertEqual(reverse_and_delimiter(["When", "The", "Wild", "Wind", "Blows"], "<-"), ["Blows", "<-", "Wind", "<-", "Wild", "<-", "The", "<-", "When"])
         print("\nPassed reverse_and_delimiter with no errors!")
+
+    def test_multiple_integers_to_single_integer(self):
+        self.assertEqual(multiple_integers_to_single_integer([7, 14, 21, 28]), 7142128)
+        self.assertEqual(multiple_integers_to_single_integer([-300, 21, 562, 1245, 1, 0, 32]), -3002156212451032)
+        self.assertEqual(multiple_integers_to_single_integer([10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]), 109876543210)
+        print("\nPassed multiple_integers_to_single_integer with no errors!")
 
 def test_one(test_name):
     suite = TestSuite()
