@@ -2,6 +2,7 @@ from unittest import TestCase, TestSuite, TextTestRunner, main
 from concatenating_word import concatenating_word
 from two_greatest_items import two_greatest_items
 from in_between_bottom_and_top import in_between_bottom_and_top
+from reverse_and_delimiter import reverse_and_delimiter
 
 class ListsBeginnerTestCase(TestCase):
     def test_concatenating_word(self):
@@ -14,13 +15,19 @@ class ListsBeginnerTestCase(TestCase):
         self.assertEqual(two_greatest_items([1, 2, 3, 4, 5]), [4, 5])
         self.assertEqual(two_greatest_items([33, 99, 12, 43, 136, 1, 4]), [99, 136])
         self.assertEqual(two_greatest_items([55]), [55, 55])
-        print("\nPassed two_greatest_items with no erros!")
+        print("\nPassed two_greatest_items with no errors!")
 
     def test_in_between_bottom_and_top(self):
         self.assertEqual(in_between_bottom_and_top([3, 12, 74, 6, 43], 10, 50), [12, 43])
         self.assertEqual(in_between_bottom_and_top([-67, -89, 31, 10, 89, 125, 431], -100, 200), [-67, -89, 31, 10, 89, 125])
         self.assertEqual(in_between_bottom_and_top([1, 5, 12, -12, 4, 8], 0, 10), [1, 5, 4, 8])
-        print("\nPassed in_between_bottom_and_top with no erros!")
+        print("\nPassed in_between_bottom_and_top with no errors!")
+
+    def test_reverse_and_delimiter(self):
+        self.assertEqual(reverse_and_delimiter(["2", "Minutes", "To", "Midnight"], "!"), ["Midnight", "!", "To", "!", "Minutes", "!", "2"])
+        self.assertEqual(reverse_and_delimiter(["Alexander", "The", "Great"], "->"), ["Great", "->", "The", "->", "Alexander"])
+        self.assertEqual(reverse_and_delimiter(["When", "The", "Wild", "Wind", "Blows"], "<-"), ["Blows", "<-", "Wind", "<-", "Wild", "<-", "The", "<-", "When"])
+        print("\nPassed reverse_and_delimiter with no errors!")
 
 def test_one(test_name):
     suite = TestSuite()
