@@ -18,7 +18,7 @@ and make an impact within the community. Have a problem in mind or want to share
 **See [Notes](#notes) for other usage features.**
 
 ## How it works:
-CommuniPy is a place to craft your Python skills and learn from a large community with valuable insights.
+CommuniPy is a place to craft your Python skills and learn from a large community of amazing people with valuable insights.
 * Implementation happens in the source file (reverse_string.py) within each Folder (e.g. 'Strings).
 * After that, all you have to do is execute the source file.
 * If you pass all tests no error will be thrown.
